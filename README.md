@@ -4,20 +4,20 @@ The Emotion-Based Music Recommendation System is an intelligent application that
 
  Features:
 
-🎭 Emotion Detection: Uses facial recognition to identify emotions such as happy, sad, angry, neutral, etc.
-🎶 Music Recommendation: Maps detected emotions to an appropriate playlist.
-🖥️ User-Friendly Interface: Simple UI for capturing user emotions and displaying song recommendations.
+🎭 Emotion Detection: Uses facial recognition to identify emotions such as happy, sad, angry, neutral, etc.<br>
+🎶 Music Recommendation: Maps detected emotions to an appropriate playlist.<br>
+🖥️ User-Friendly Interface: Simple UI for capturing user emotions and displaying song recommendations.<br>
 🔊 Spotify Integration : Play recommended songs directly.
 
 Technologies Used:
 
-Python (Flask for backend, OpenCV for face detection)
-TensorFlow/Keras (Emotion recognition model)
-Pandas & NumPy (Data handling)
-OpenCV (For face detection & processing)
-Scikit-Learn (Machine learning algorithms)
-Streamlit / Tkinter (For GUI, if applicable)
-CSV Dataset (Emotion-labeled music dataset)
+Python (Flask for backend, OpenCV for face detection)<br>
+TensorFlow/Keras (Emotion recognition model)<br>
+Pandas & NumPy (Data handling)<br>
+OpenCV (For face detection & processing)<br>
+Scikit-Learn (Machine learning algorithms)<br>
+Streamlit / Tkinter (For GUI, if applicable)<br>
+CSV Dataset (Emotion-labeled music dataset)<br>
 
 Installation & Setup
 
@@ -29,22 +29,22 @@ Installation & Setup
   pip install -r requirements.txt
 ```
 
-3.Run the Application:
- ```bash
+3.Run the Application:<br>
+ ```bash<br>
   streamlit run app.py
 ```
 
 4.Use the Application:
 
-Capture an image using your webcam.
-The system detects emotion & recommends songs.
+Capture an image using your webcam.<br>
+The system detects emotion & recommends songs.<br>
 
 📌 Future Enhancements:
 
-📱 Mobile Application Version
-🎧 Personalized User Playlists
-🌍 Multilingual Support
-🤖 AI Chatbot for Music Suggestions
+📱 Mobile Application Version<br>
+🎧 Personalized User Playlists<br>
+🌍 Multilingual Support<br>
+🤖 AI Chatbot for Music Suggestions<br>
 
 📜 License:
 
@@ -56,4 +56,4 @@ Feel free to fork this repository, contribute, and submit pull requests!
 
 ## Authors
 
-- [Myra Jaiswal]()
+- [Myra Jaiswal](https://github.com/MYRA31JAIS)
